@@ -53,7 +53,7 @@
   },
   "homepage": "https://github.com/leizongmin/leizm-web#readme",
   "dependencies": {
-    "@modernjs/cookie": "^1.0.1",
+    "@modernjs/cookie": "^1.0.2",
     "@modernjs/multipart": "^1.0.3",
     "@modernjs/send": "^1.0.1",
     "path-to-regexp": "^3.0.0"
